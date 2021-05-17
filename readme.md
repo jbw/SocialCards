@@ -14,7 +14,7 @@ The program takes two arguments:
 - 1 : Image Url 
 
 ```console
-dotnet run "hello, world" "https://images.unsplash.com/photo-1611421964991-011ddb6c2cea?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1265&q=80"
+dotnet run "Hello, World" "https://images.unsplash.com/photo-1555532538-dcdbd01d373d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1731&q=80"
 ```
 
 When run, the application will make a call to a Razor Page (Index.cshtml). Feel free to change it for your needs.
